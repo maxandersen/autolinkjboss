@@ -5,7 +5,7 @@ Simple userscript to enable automatic linking of email, twitter, plain text urls
 
 This allows you to just refer to Jira bugid's and not full urls in things like Github, like below:
 
-![Example](example.png)
+![Example](https://raw.github.com/maxandersen/autolinkjboss/master/example.png)
 
 How to install
 ==============
