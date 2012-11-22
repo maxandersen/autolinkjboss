@@ -25,6 +25,16 @@ What I currently use is Chrome and here the steps are:
 
    5) Done!
 
+Steps for Safari:
+
+   1) Install NinjaKit from https://github.com/os0x/NinjaKit
+
+   2) Restart Safari
+
+   3) Click https://github.com/maxandersen/autolinkjboss/raw/master/autolinkjboss.user.js and confirm installation
+
+   4) Done!
+
 Got instructions for another browser or want to improve/extend the list of jira's it supports fork this repo and send a pullrequest :)
 
 Tests
