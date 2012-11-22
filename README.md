@@ -12,7 +12,7 @@ This is an userscript so any form of Greasemonkey browser variation should work.
 
 For Chrome the simplest is:
 
-   1) Open [Chrome Extension Page](chrome://chrome/extensions/) via Window -> Extensions.
+   1) Open Chrome Extension Page (chrome://chrome/extensions/) via Window -> Extensions.
 
    2) Drag autolinkjboss.userscript.js to this page
 
