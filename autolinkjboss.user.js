@@ -87,7 +87,7 @@ const filters = [
   },
     {
         name: "JBoss Jira Links",
-        regexp: /(JBIDE|JBQA|JBDS|TOOLSDOC|AS7|FORGE|FORGEPLUGINS)-\d+/g,
+        regexp: /(JBIDE|JBQA|JBDS|TOOLSDOC|AS7|JBPAPP6|JBPAPP|FORGE|FORGEPLUGINS)-\d+/g,
         href: function(match) { return "https://issues.jboss.org/browse/" + match[0]; }
     }
 ];

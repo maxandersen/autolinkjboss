@@ -26,3 +26,14 @@ What I currently use is Chrome and here the steps are:
    5) Done!
 
 Got instructions for another browser or want to improve/extend the list of jira's it supports fork this repo and send a pullrequest :)
+
+Tests
+=====
+
+If you have the plugin correctly installed these text links should be automatically linked:
+
+Twitter: @maxandersen @jbosstools
+Jira's: JBIDE-234, FORGE-24, AS7-66
+
+
+
