@@ -12,10 +12,14 @@ This is an userscript so any form of Greasemonkey browser variation should work.
 
 For Chrome the simplest is:
 
-   1) Open Chrome Extension Page (chrome://chrome/extensions/) via Window -> Extensions.
+   1) Download https://github.com/maxandersen/autolinkjboss/raw/master/autolinkjboss.user.js
+   
+   2) Open Chrome Extension Page (chrome://chrome/extensions/) via Window -> Extensions.
 
-   2) Drag autolinkjboss.userscript.js to this page
+   3) Drag autolinkjboss.userscript.js to this page
 
-   3) Approve the dialog 
+   4) Approve the dialog 
 
-   4) You can now visit pages and it should start working.
+   5) Done!
+
+Got instructions for another browser or want to improve/extend the list of jira's it supports fork this repo and send a pullrequest :)
