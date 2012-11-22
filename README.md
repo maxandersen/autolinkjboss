@@ -33,6 +33,7 @@ Tests
 If you have the plugin correctly installed these text links should be automatically linked:
 
 Twitter: @maxandersen @jbosstools
+
 Jira's: JBIDE-234, FORGE-24, AS7-66
 
 
