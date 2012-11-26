@@ -35,6 +35,16 @@ Steps for Safari:
 
    4) Done!
 
+Steps for Firefox:
+
+   1) Install the Greasemonkey add-on
+
+   2) Restart Firefox
+
+   3) Simply open the autolinkjboss.user.js file in Firefox.  Greasemonkey will automatically ask to if the extension should be installed.
+
+   4) Done!
+
 Got instructions for another browser or want to improve/extend the list of jira's it supports fork this repo and send a pullrequest :)
 
 Tests
