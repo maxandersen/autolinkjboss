@@ -77,18 +77,15 @@ const filters = [
     regexp: /[a-z0-9_\-+=.]+@[a-z0-9\-]+(\.[a-z0-9-]+)+/ig,
     href: function(match) { return "mailto:" + match[0]; }
   },
-  {
-    name: "Twitter link",
-	// If anyone wants to help me with my RegExp so I can avoid
-	// malformed@emailaddress, please email me
-	// at ross.autolink@rossotron.com 
-	regexp: /\@([a-z0-9\_]+)(?![-a-z0-9\_])/ig,
-    href: function(match) { return "http://www.twitter.com/" + match[1]; }
-  },
     {
         name: "JBoss Jira Links",
         regexp: /(JBIDE|JBQA|JBDS|TOOLSDOC|AS7|JBPAPP6|JBPAPP|FORGE|FORGEPLUGINS|ARQ|SHRINKRES|SHRINKWRAP|SHRINKDESC|ARQGRA|RF|RFPL|RFSBOX|JBSEAM)-\d+/g,
         href: function(match) { return "https://issues.jboss.org/browse/" + match[0]; }
+    },
+    {
+        name: "Hibernate Jira Links",
+        regexp: /(BVAL|BVTCK|HCANN|STYLE|METAGEN|OGM|HHH|HSEARCH|HSHARDS|HBX|HV|WEBSITE|JPA)-\d+/g,
+        href: function(match) { return "https://hibernate.onjira.com/browse/" + match[0]; }
     }
 ];
 /***********************************
