@@ -89,6 +89,11 @@ const filters = [
         name: "JBoss Jira Links",
         regexp: /(JBIDE|JBQA|JBDS|TOOLSDOC|AS7|JBPAPP6|JBPAPP|FORGE|FORGEPLUGINS|ARQ|SHRINKRES|SHRINKWRAP|SHRINKDESC|ARQGRA|RF|RFPL|RFSBOX|JBSEAM)-\d+/g,
         href: function(match) { return "https://issues.jboss.org/browse/" + match[0]; }
+    },
+    {
+        name: "Hibernate Jira Links",
+        regexp: /(BVAL|BVTCK|HCANN|STYLE|METAGEN|OGM|HHH|HSEARCH|HSHARDS|HBX|HV|WEBSITE|JPA)-\d+/g,
+        href: function(match) { return "https://hibernate.onjira.com/browse/" + match[0]; }
     }
 ];
 /***********************************
