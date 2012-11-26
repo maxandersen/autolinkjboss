@@ -1,7 +1,7 @@
 Autolink for JBoss
 ==================
 
-Simple userscript to enable automatic linking of email, twitter, plain text urls and more importantly JBoss jira links.
+Simple userscript to enable automatic linking of email and plain text urls and more importantly JBoss jira links.
 
 This allows you to just refer to Jira bugid's and not full urls in things like Github, like below:
 
@@ -54,7 +54,7 @@ If you have the plugin correctly installed these text links should be automatica
 
 Twitter: @maxandersen @jbosstools
 
-Jira's: JBIDE-234, FORGE-24, AS7-66, ARQGRA-23, RF-334
+Jira's: JBIDE-234, FORGE-24, AS7-66, ARQGRA-23, RF-334, HHH-234, METAGEN-3
 
 
 
