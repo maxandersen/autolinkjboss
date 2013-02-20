@@ -54,7 +54,7 @@ If you have the plugin correctly installed these text links should be automatica
 
 Twitter: @maxandersen @jbosstools
 
-Jira's: JBIDE-234, FORGE-24, AS7-66, ARQGRA-23, RF-334, HHH-234, METAGEN-3
+Jira's: JBIDE-234, FORGE-24, AS7-66, ARQGRA-23, RF-334, HHH-234, METAGEN-3, JDF-211
 
 
 
