@@ -80,7 +80,7 @@ const filters = [
   },
     {
         name: "JBoss Jira Links",
-        regexp: /(JBIDE|JBQA|JBDS|TOOLSDOC|AS7|JBPAPP6|JBPAPP|FORGE|FORGEPLUGINS|ARQ|SHRINKRES|SHRINKWRAP|SHRINKDESC|ARQGRA|RF|RFPL|RFSBOX|JBSEAM)-\d+/g,
+        regexp: /(JBIDE|JBQA|JBDS|TOOLSDOC|AS7|JBPAPP6|JBPAPP|FORGE|FORGEPLUGINS|ARQ|SHRINKRES|SHRINKWRAP|SHRINKDESC|ARQGRA|RF|RFPL|RFSBOX|JBSEAM|JDF)-\d+/g,
         href: function(match) { return "https://issues.jboss.org/browse/" + match[0]; }
     },
     {
