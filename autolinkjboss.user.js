@@ -5,6 +5,7 @@
 // @include *
 // @include https://*
 // @exclude *contacts
+// @exclude *docs.google.com*
 // ==/UserScript==
 /*
   Please note - this is a an extesnion of AutoLink (modified for Twitter) from http://userscripts.org/scripts/show/28705 which is a SUBSET of the AutoLink script provided by Jesse Ruderman's AutoLink greasemonkey script - For the full functional version of that script, please go to http://www.squarefree.com/2005/05/22/autolink/
