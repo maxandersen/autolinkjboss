@@ -72,4 +72,4 @@ mouse click.
 Install of PopClip extension
 ============================
 
-Install PopClip and click [JBossJira.popclipextz](JBossJira.popclipextz)
+Install PopClip and click [https://github.com/maxandersen/autolinkjboss/raw/master/JBossJira.popclipextz](JBossJira.popclipextz)
