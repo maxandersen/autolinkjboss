@@ -1,14 +1,19 @@
 Autolink for JBoss
 ==================
 
+Two utilities for autolinking jira links to JBoss jira.
+
+1) Userscript for browsers
+2) Extension to use with http://http://pilotmoon.com/popclip/
+
 Simple userscript to enable automatic linking of email and plain text urls and more importantly JBoss jira links.
 
 This allows you to just refer to Jira bugid's and not full urls in things like Github, like below:
 
 ![Example](https://raw.github.com/maxandersen/autolinkjboss/master/example.png)
 
-How to install
-==============
+How to install Userscript
+=========================
 
 This is an userscript so any form of Greasemonkey browser variation should work.
 Generic instructions for installing userscripts can be found at: https://github.com/p2k/GLaDOS-Enhancer-Plus/wiki/Installing-Userscripts
@@ -56,5 +61,15 @@ Twitter: @maxandersen @jbosstools
 
 Jira's: JBIDE-234, FORGE-24, AS7-66, ARQGRA-23, RF-334, HHH-234, METAGEN-3
 
+Special sites
+=============
 
+docs.google.com is excluded since the script is messing up Google
+Presentations and even though it shows up correctly in Google
+Spreadsheet the links are not working because google overwrites the
+mouse click.
 
+Install of PopClip extension
+============================
+
+Install PopClip and click [JBossJira.popclipextz](JBossJira.popclipextz)
