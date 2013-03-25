@@ -4,13 +4,16 @@ Autolink for JBoss
 Two utilities for autolinking jira links to JBoss jira.
 
 1) Userscript for browsers
+   Simple userscript to enable automatic linking of email and plain text urls and more importantly JBoss jira links.
+
 2) Extension to use with http://http://pilotmoon.com/popclip/
 
-Simple userscript to enable automatic linking of email and plain text urls and more importantly JBoss jira links.
-
-This allows you to just refer to Jira bugid's and not full urls in things like Github, like below:
+This allows you to just refer to Jira bugid's and not full urls in things like Github, like below in browser or on OSX for any selection:
 
 ![Example](https://raw.github.com/maxandersen/autolinkjboss/master/example.png)
+
+![PopClip Example](https://raw.github.com/maxandersen/autolinkjboss/master/example-popclip.png)
+
 
 How to install Userscript
 =========================
