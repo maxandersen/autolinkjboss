@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>bing.png</string>
+			<key>Regular Expression</key>
+			<string>\w+-\d+</string>
+			<key>Title</key>
+			<string>Jira</string>
+			<key>URL</key>
+			<string>https://jira.jboss.org/jira/browse/{popclip text}</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://xam.dk</string>
+			<key>Name</key>
+			<string>Max Rydahl Andersen</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Lookup Jira on JBoss.</string>
+	<key>Extension Identifier</key>
+	<string>org.xam.dk.popclip.extension.jbossjira</string>
+	<key>Extension Name</key>
+	<string>JBossJira</string>
+</dict>
+</plist>
