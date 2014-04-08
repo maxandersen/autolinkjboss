@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>bing.png</string>
+			<key>Regular Expression</key>
+			<string>\w+-\d+</string>
+			<key>Title</key>
+			<string>HJira</string>
+			<key>URL</key>
+            <string>https://hibernate.atlassian.net/browse/{popclip text}</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://xam.dk</string>
+			<key>Name</key>
+			<string>Max Rydahl Andersen</string>
+		</dict>
+		<dict>
+			<key>Link</key>
+			<string>http://emmanuelbernard.com</string>
+			<key>Name</key>
+			<string>Emmanuel Bernard</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Lookup Jira on Hibernate.</string>
+	<key>Extension Identifier</key>
+	<string>com.emmanuelbernard.popclip.extension.hibernatejira</string>
+	<key>Extension Name</key>
+	<string>HibernateJira</string>
+</dict>
+</plist>
